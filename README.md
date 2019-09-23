@@ -1,0 +1,8 @@
+# BeUpStanding Website Introduction
+> [App Introduction Link](https://chsy990.github.io/BeUpStanding-Website-Demo/landing) 
+
+## Project Background
+BeAppStanding is the project initiated by Professor Genevieve Healy from the Public Health School at the University of Queensland, along with Team Pending which was formed by 9 postgraduate students from the University of Queensland. Throughout the research, Professor Healy and her colleagues found out that long periods of sitting can obviously increase the risk of musculoskeletal disorders, cardiovascular disease, type 2 diabetes and even colon cancer.
+Professor Healy and her colleagues have created the BeUpStanding project in order to raise people’s awareness of sit less and stand more. This project, BeAppStanding, was created as the extension of the Be Up Standing project, the goal of this project is to create an iOS mobile application to further help the target users to sit less and stand more.
+
+As described above, the solution for the project was to develop an iOS mobile application, the critical features of this application are “Personal Activity Goal” and “Team Activity Goal”. The application allows users to create the standing activity goal by setting how many times they want to stand up and the interval during a day, then the application will remind users to stand up and complete a set of activity by sending them a notification. In addition, users of the application are allowed to invite their friends or colleagues to form into an activity group and the team leader can create a team activity goal for each team member to complete, this feature was designed to encourage users to complete more activity goal.
