@@ -1,4 +1,4 @@
-# BeUpStanding Website Introduction
+# BeUpStanding APOP Introduction
 > [App Introduction Link](https://chsy990.github.io/BeUpStanding-Website-Demo/landing) 
 
 ## Project Background
